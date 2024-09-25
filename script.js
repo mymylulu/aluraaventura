@@ -1,5 +1,5 @@
 const avanca = document.querySelectorAll('.btn-proximo');
-
+//Maria eduarda pereira  3D 25/09/2024
 avanca.forEach(button => {
     button.addEventListener('click', function(){
         const atual = document.querySelector('.ativo');
